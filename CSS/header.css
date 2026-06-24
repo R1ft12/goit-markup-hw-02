@@ -1,0 +1,48 @@
+.header {
+    padding: 24px 156px;
+}
+
+.logo {
+    color: #2e2f42;
+}
+
+.header-nav {
+    margin-top: 24px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-link {
+    color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+    margin-top: 24px;
+}
+
+.address-list {
+    display: flex;
+    gap: 40px;
+}
+
+.address-link {
+    color: #434455;
+    line-height: 1.5;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #404bbf;
+}
